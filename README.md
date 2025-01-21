@@ -1,16 +1,20 @@
-## Hi there 👋
+## Victor Sanchez
 
-<!--
-**vicmans/vicmans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+### About me
+- ⚡ Full Stack Developer
+- 🔭 I’m currently working on this README.md
+- 🌱 I’m currently learning about cloud computing
+- 👯 I’m looking to collaborate on open-source projects
+- 💡 I like to develop things to improve the developer experience.
+- ⚡ Fun fact: {{ funfact }}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+
+- **Languages**: JavaScript, TypeScript, PHP, HTML, CSS.
+- **Front-end**: Angular, Vue.js, React.js, Nuxt.js, Next.js Alpine.js, Inertia.js.
+- **Back-end**: Laravel, Slim Framework, Node.js, Express.js, Nest.js.
+- **Databases**: SQLite, MySQL, PostgreSQL, MongoDB, Redis, Meilisearch.
+- **CSS Frameworks**: Sass, Tailwind, Bootstrap, Ant-Design.
+- **Testing**: PHPUnit, Pest, Jest, Vitest.
